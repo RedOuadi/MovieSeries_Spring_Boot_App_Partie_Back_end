@@ -1,9 +1,9 @@
 // src/main/java/com/msproje/movieSerieApp/service/SerieService.java
 package service;
 
-import com.msproje.movieSerieApp.dto.SerieDTO;
-import com.msproje.movieSerieApp.model.Serie;
-import com.msproje.movieSerieApp.repositorie.SerieRepository;
+import dto.SerieDTO;
+import model.Serie;
+import repositorie.SerieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

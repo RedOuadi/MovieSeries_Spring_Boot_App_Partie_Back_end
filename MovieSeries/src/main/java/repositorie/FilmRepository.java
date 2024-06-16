@@ -1,6 +1,6 @@
 package repositorie;
 
-import com.msproje.movieSerieApp.model.Film;
+import model.Film;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

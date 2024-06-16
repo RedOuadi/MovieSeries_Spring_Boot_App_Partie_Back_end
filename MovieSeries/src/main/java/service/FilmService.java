@@ -1,8 +1,8 @@
 package service;
 
-import com.msproje.movieSerieApp.dto.FilmDTO;
-import com.msproje.movieSerieApp.model.Film;
-import com.msproje.movieSerieApp.repositorie.FilmRepository;
+import dto.FilmDTO;
+import model.Film;
+import repositorie.FilmRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

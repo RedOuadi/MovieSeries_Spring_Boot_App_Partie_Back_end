@@ -1,11 +1,11 @@
 package controller;
 
-import com.msproje.movieSerieApp.dto.FilmDTO;
-import com.msproje.movieSerieApp.dto.SerieDTO;
-import com.msproje.movieSerieApp.model.Favori;
-import com.msproje.movieSerieApp.service.FavoriService;
-import com.msproje.movieSerieApp.service.FilmService;
-import com.msproje.movieSerieApp.service.SerieService;
+import dto.FilmDTO;
+import dto.SerieDTO;
+import model.Favori;
+import service.FavoriService;
+import service.FilmService;
+import service.SerieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

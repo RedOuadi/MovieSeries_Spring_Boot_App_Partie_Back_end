@@ -1,7 +1,7 @@
 package controller;
 
-import com.msproje.movieSerieApp.dto.FilmDTO;
-import com.msproje.movieSerieApp.service.FilmService;
+import dto.FilmDTO;
+import service.FilmService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

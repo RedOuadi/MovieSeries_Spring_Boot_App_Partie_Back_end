@@ -1,7 +1,7 @@
 package service;
 
-import com.msproje.movieSerieApp.model.User;
-import com.msproje.movieSerieApp.repositorie.UserRepository;
+import model.User;
+import repositorie.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

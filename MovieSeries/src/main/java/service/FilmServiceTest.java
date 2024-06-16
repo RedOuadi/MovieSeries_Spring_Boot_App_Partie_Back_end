@@ -1,6 +1,6 @@
 package service;
 
-import com.msproje.movieSerieApp.model.Film;
+import model.Film;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
