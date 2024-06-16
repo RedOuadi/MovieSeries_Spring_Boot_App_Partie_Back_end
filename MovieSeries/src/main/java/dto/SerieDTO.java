@@ -1,4 +1,4 @@
-package com.msproje.movieSerieApp.dto;
+package dto;
 
 import java.util.Date;
 
